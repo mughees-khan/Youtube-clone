@@ -1,0 +1,105 @@
+
+.main{
+    width: 100%;
+    margin-left: 100px;
+    background-color:azure;
+}
+.images{
+    width: 100%;
+    margin-left: 100px;
+}
+img{
+    width: 300px;
+    height: 200px;
+}
+.underline{
+   text-decoration: underline;
+}
+.profile{
+    width: 250px;
+    height: 250px;
+    border-radius: 300px;
+}
+.up{
+    position: relative;
+    top: -200px;
+    right: -300px;
+}
+.upp{
+    position: relative;
+    top: -20px;
+}
+button{
+    width: 150px;
+    height: 40px;
+   background-color: rgba(6, 95, 212, 1);
+    position: relative;
+    right: -900px;
+    top: -250px;
+}
+.icon{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top: 10px;
+    right: -150px;
+}
+.icons{
+    width: 30px;
+    height: 30px;
+}
+.icon-main{
+    position: absolute;
+}
+.listline-icon{
+    width: 30px;
+    height: 30px;
+    position: relative;
+top: -60px;
+   
+}
+.youtube-icon{
+    width: 200px;
+    height: 100px;
+    position: relative;
+    top: -20px;
+   
+}
+.form{
+width: 600px;
+height: 30px;
+position: relative;
+top: -60px;
+right: -30px;
+}
+.record-icon{
+width: 30px;
+height: 30px;
+position: relative;
+top: -50px;
+right: -50px;
+background-color: rgb(180, 170, 170);
+border-radius: 200px;
+}
+.video-icon{
+    width: 30px;
+    height: 30px;
+    position: relative;
+   top: -50px;
+   right: -120px;
+}
+.noti-icon{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top: -50px;
+    right: -180px;
+}
+.img-icon{
+    width: 35px;
+    height: 35px;
+    border-radius: 200px;
+    position: relative;
+    top: -45px;
+    right: -290px;
+}
